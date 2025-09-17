@@ -118,7 +118,7 @@ function App() {
     Buy $FMS <ArrowRight className="w-5 h-5" />
   </a>
             <a 
-              href="https://x.com/feedmes0L" 
+              href="https://t.me/FeedMeSOL" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-white/20 backdrop-blur-md hover:bg-white/30 text-white border-2 border-white/30 px-8 py-4 rounded-2xl font-bold text-xl shadow-xl transform hover:scale-105 transition-all duration-200 flex items-center gap-2"
