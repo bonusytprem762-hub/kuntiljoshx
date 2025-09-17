@@ -51,7 +51,7 @@ function App() {
 
   const formatTime = (num: number) => num.toString().padStart(2, '0');
 
-  const contractAddress = "GANTI ALAMAT KOINNYA";
+  const contractAddress = "GANTI ALAMAT URL PUMPFUN KOINNYA";
   
   const copyContract = () => {
     navigator.clipboard.writeText(contractAddress);
