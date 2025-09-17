@@ -51,7 +51,7 @@ function App() {
 
   const formatTime = (num: number) => num.toString().padStart(2, '0');
 
-  const contractAddress = "GANTI ALAMAT URL PUMPFUN KOINNYA";
+  const contractAddress = "3homEdXBs3dFhQPFYqoPQt3ZebXuTtCRmYKyvNk8pump";
   
   const copyContract = () => {
     navigator.clipboard.writeText(contractAddress);
@@ -110,7 +110,7 @@ function App() {
           {/* CTA Buttons */}
          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
   <a 
-    href="https://google.com" 
+    href="https://pump.fun/coin/3homEdXBs3dFhQPFYqoPQt3ZebXuTtCRmYKyvNk8pump" 
     target="_blank" 
     rel="noopener noreferrer"
     className="bg-gradient-to-r from-teal-500 to-purple-600 hover:from-teal-600 hover:to-purple-700 text-white px-8 py-4 rounded-2xl font-bold text-xl shadow-2xl transform hover:scale-105 transition-all duration-200 flex items-center gap-2"
