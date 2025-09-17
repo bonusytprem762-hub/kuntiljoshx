@@ -257,7 +257,7 @@ function App() {
                 The 5% tax on transactions is automatically converted into the reward pool and distributed as $SOL to holders.
               </p>
               <a 
-                href="https://x.com/feedmes0L" 
+                href="https://t.me/FeedMeSOL" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white px-6 py-3 rounded-xl font-bold text-sm shadow-lg transform hover:scale-105 transition-all duration-200 inline-flex items-center gap-2"
